@@ -1,4 +1,4 @@
-import { VendingMachine } from "./src/VendingMachine";
+import { VendingMachine } from "../src/VendingMachine";
 
 test("コーラを返す", () => {
   const vendingMachine = new VendingMachine();
